@@ -18,5 +18,5 @@ function dados(nome, idade) {
     }
 }
 function somar(numA, numB) {
-    return numA + numB;
+    return "A soma deu nisso" + numA + numB;
 }
